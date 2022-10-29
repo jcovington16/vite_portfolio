@@ -5,10 +5,6 @@ function Intro() {
     <section id="intro" className="flex items-center justify-center flex-col pt-20 pb-6">
         <img src='astro.jpg' alt="astro" className='max-w-xs h-auto'/>
         <div className="text-center">
-
-            {/* <h1 className="text-4xl md:text-7xl dark:text-black mb-1 md:mb-3 font-bold">
-                Astro Dev
-            </h1> */}
             <p className='text-base md:text-xl mb-3 font-medium'>
                 Software Engineer{' '}
             </p>
