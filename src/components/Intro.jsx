@@ -18,7 +18,7 @@ function Intro() {
             </p>
         </div>
     </section>
-  )
+  );
 }
 
 export default Intro;

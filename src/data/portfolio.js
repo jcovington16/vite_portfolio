@@ -2,7 +2,7 @@ export default [
     {
         title: 'Marvel Meets',
         imgUrl: 'src/assets/marvel-meets.png',
-        stack: ['BootStrap', 'Node', 'React'],
+        stack: ['BootStrap', 'Node', 'React', 'MongoDB', 'Twilio'],
         workUrl: 'marvel-meets-6ehlsutmy-jcovington16.vercel.app'
     },
     {
