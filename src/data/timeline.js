@@ -7,7 +7,7 @@ export default [
     },
     {
         year: "2019-2021",
-        title: "Software Engineer",
+        title: "Software Engineer/Network Engineer",
         duration: "3 years",
         details: "Developed API endpoints to check security constraints on what applications are approved for install. Maintained Cisco switches/routers through python scripts to maintain backlog of configs. Increased data processing speeds by 30%."
     },
