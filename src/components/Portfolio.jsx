@@ -13,7 +13,7 @@ function Portfolio() {
                     imgUrl={project.imgUrl}
                     title={project.title}
                     stack={project.stack}
-                    projectUrl={project.projectUrl}
+                    workUrl={project.workUrl}
                 />
             ))}
         </div>

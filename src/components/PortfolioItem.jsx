@@ -1,8 +1,8 @@
 import React from 'react'
 
-function PortfolioItem({imgUrl, title, stack}) {
+function PortfolioItem({workUrl, imgUrl, title, stack}) {
   return (
-    <a className='border-4 border-stone-900 dark:border-black rounded-md overflow-hidden'>
+    <a target="_blank" rel="noopener noreferrer" href={workUrl} className='border-4 border-stone-900 dark:border-black rounded-md overflow-hidden'>
         <img
             src={imgUrl}
             alt='portfolio'
