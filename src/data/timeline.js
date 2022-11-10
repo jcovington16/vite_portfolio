@@ -3,7 +3,7 @@ export default [
         year: "Today",
         title: "Software Engineer",
         duration: "1 year",
-        details: "Responsible for an API endpoint which allows users to query multiple entity types (Email,IP,CreditCard,CryptoWallet) to gain a detailed response if a user or company information lives on the darknet."
+        details: "Responsible for an API endpoint which allows users to query multiple entity types (Email,IP,CreditCard,CryptoWallet) to gain a detailed response if a user or company information lives on the darknet. This allows users to know their data posture on the dark net"
     },
     {
         year: "2019-2021",
