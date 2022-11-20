@@ -3,7 +3,7 @@ import React from 'react';
 function Intro() {
   return (
     <section id="intro" className="flex items-center justify-center flex-col pt-20 pb-6">
-        <img src='astro.jpg' alt="astro" className='max-w-xs h-auto'/>
+        <img src='astro.jpg' alt="astro" className='max-w-md h-auto'/>
         <div className="text-center">
             <p className='text-base md:text-xl mb-3 font-medium'>
                 Software Engineer{' '}
